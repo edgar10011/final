@@ -1,0 +1,18 @@
+.modal {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 600px;
+  }
+  
+  .container {
+    display: flex;
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+  }
+  
+  .container img {
+    object-fit: cover;
+  }

@@ -5,9 +5,38 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+}
+.text-white{
+  text-decoration: none;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.card {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+}
+.catto{
+  margin-top: 148px;
+  padding-left: 94%;
+}
+h5{
+  display: flex;
+  justify-content: center;
+}
+
+.cuadro{
+  display: flex;
+  align-content: flex-start;
+  justify-content: center;
 }
