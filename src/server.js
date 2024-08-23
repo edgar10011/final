@@ -86,6 +86,7 @@ app.get('/data', async (req, res) => {
   }
 });
 
+
 // Endpoint para actualizar datos
 app.put('/data', async (req, res) => {
   const data = req.body;
